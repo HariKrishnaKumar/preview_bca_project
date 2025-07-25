@@ -1,5 +1,5 @@
 # preview_bca_project <br>
-`This is a preview of my Face Recognization Project Using ML`<br>
+`This is a preview of my Face Recognization Project Using ML` but locked<br>
 the given below is the link of my project 
 
 
