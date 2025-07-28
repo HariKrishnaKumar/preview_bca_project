@@ -8,6 +8,6 @@ https://github.com/HariKrishnaKumar/BCA_FINAL_YEAR_PROJECT
 ```
 Preview of my project:
 
+https://github.com/user-attachments/assets/b1ce0e6a-df7b-4598-8a15-e40e3eccee8a
 
-https://github.com/user-attachments/assets/00a39ee0-323c-426c-a04f-3d55b699dafc
-
+**Recommend to see in 0.75x speed for details**
